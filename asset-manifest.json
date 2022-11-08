@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-form/static/css/main.56750fc7.css",
+    "main.js": "/contact-form/static/js/main.21cbc263.js",
+    "static/media/background.jpg": "/contact-form/static/media/background.fbc119ee196ad98c39ac.jpg",
+    "static/media/icon-github.svg": "/contact-form/static/media/icon-github.4bfdb82fd39c519d92c6057644d597ce.svg",
+    "index.html": "/contact-form/index.html",
+    "main.56750fc7.css.map": "/contact-form/static/css/main.56750fc7.css.map",
+    "main.21cbc263.js.map": "/contact-form/static/js/main.21cbc263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56750fc7.css",
+    "static/js/main.21cbc263.js"
+  ]
+}
