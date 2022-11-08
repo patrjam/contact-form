@@ -30,7 +30,7 @@ border-radius: 0.3rem;
 border-color:#f5c2c7 ;
 background-color: #f8d7da;
 transition: 0.3s;
-width: 30%;
+width: 25%;
 `
 
 export const Success = styled.div`
@@ -41,7 +41,7 @@ border-radius: 0.3rem;
 border-color:#badbcc ;
 background-color: #d1e7dd;
 transition: 0.3s;
-width: 30%;
+width: 25%;
 `
 
 export const SubmitButton = styled.button`
