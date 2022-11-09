@@ -9,6 +9,7 @@ const StyledTextArea = styled.textarea`
   font-size: 1.1rem;
   margin-bottom: 22px;
   transition: 0.3s;
+  resize: none;
 `;
 
 export const CustomTextArea = ({ label, ...otherProps }) => {
