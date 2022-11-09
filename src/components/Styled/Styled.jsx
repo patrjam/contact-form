@@ -10,6 +10,7 @@ export const ContactBox = styled.div`
   text-align: center;
   background-color: #fff;
   box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
+  position: relative;
 `;
 
 export const Left = styled.div`
@@ -30,7 +31,7 @@ border-radius: 0.3rem;
 border-color:#f5c2c7 ;
 background-color: #f8d7da;
 transition: 0.3s;
-width: 25%;
+width: 40%;
 `
 
 export const Success = styled.div`
@@ -41,7 +42,7 @@ border-radius: 0.3rem;
 border-color:#badbcc ;
 background-color: #d1e7dd;
 transition: 0.3s;
-width: 25%;
+width: 40%;
 `
 
 export const SubmitButton = styled.button`

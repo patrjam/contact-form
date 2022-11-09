@@ -75,9 +75,7 @@ export const ContactForm = () => {
     } else setNonExistingEmail(true);
   };
 
-  const formIsNotEmpty = Object.values(formData).some(
-    (inputValue) => inputValue !== ""
-  );
+  const formIsNotEmpty = formData.email !== "" || formData.phone !== "";
 
   return (
     <ContactBox>
